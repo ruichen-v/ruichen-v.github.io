@@ -73,14 +73,16 @@
       <p><a href=" {{ post.paperurl }} "><u>More details.</u></a></p> {% endcomment %}
     {% endif %}
 
-    {% if post.image %}
-        <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}">
+    {% if post.archive_image %}
+        <img src="{{ post.archive_image | prepend: "/images/" | prepend: base_path }}">
     {% endif %}
 
     {% if post.archive_video %}
-        <iframe width="420" height="315"
+    <p>
+        <iframe
             src="{{ post.archive_video }}" frameborder="0" allowfullscreen>
         </iframe>
+    </p>
     {% endif %}
 
   </article>

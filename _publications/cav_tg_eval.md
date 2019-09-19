@@ -7,6 +7,7 @@ date: 2019-2-26
 venue: 'arXiv'
 # paperurl: 'https://arxiv.org/abs/1909.07843'
 authors: '**Rui Chen**, Mansur Arief, Weiyang Zhang, Ding Zhao'
+archive_image: 'scenario_fit_demo.gif'
 image: 'scenario_fit_demo.gif'
 image2: 'cav_tg_full_benchmark.png'
 # codeurl: 'https://github.com/ruichen-v/active_learning_for_rsirl'

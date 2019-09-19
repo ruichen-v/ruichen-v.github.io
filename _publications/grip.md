@@ -9,6 +9,7 @@ paperurl: 'https://arxiv.org/abs/1903.08352'
 authors: 'Xiaotong Chen, **Rui Chen**, Zhiqiang Sui, Zhefan Ye, Yanqi Liu, R. Iris Bahar, Odest Chadwicke Jenkins'
 video: 'https://www.youtube.com/embed/W0KvzMhIJxo'
 image: 'grip.png'
+archive_image: 'grip.png'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 # Abstract

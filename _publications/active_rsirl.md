@@ -8,6 +8,7 @@ venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'
 paperurl: 'https://arxiv.org/abs/1909.07843'
 authors: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao'
 image: 'active_rsirl.gif'
+archive_image: 'active_rsirl.gif'
 codeurl: 'https://github.com/ruichen-v/active_learning_for_rsirl'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
