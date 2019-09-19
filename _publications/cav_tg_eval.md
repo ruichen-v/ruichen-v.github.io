@@ -1,7 +1,7 @@
 ---
 title: "How to Evaluate Self-Driving Testing Ground? A Quantitative Approach"
 collection: publications
-permalink: /publication/cav_tg_eval
+permalink: /publications/cav_tg_eval
 excerpt: 'This work evaluates the effectiveness of connected and automated vehicle testing grounds in terms of their capability to accomodate real-world driving scenarios, which are extracted from naturalistic driving data via Hierarchical Dirichlet Process Hidden Markov Model (HDP-HMM).'
 date: 2019-2-26
 venue: 'arXiv'

@@ -1,7 +1,7 @@
 ---
 title: "Active Learning for Risk-Sensitive Inverse Reinforcement Learning"
 collection: publications
-permalink: /publication/active_rsirl
+permalink: /publications/active_rsirl
 excerpt: 'Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.'
 date: 2019-9-10
 venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'

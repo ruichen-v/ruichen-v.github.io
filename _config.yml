@@ -86,8 +86,8 @@ author:
   location         : "Pittsburgh"
   employer         : 
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?hl=en&user=XiUE0wMAAAAJ
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=XiUE0wMAAAAJ"
+  email            : "ruichen2@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
