@@ -69,11 +69,11 @@ layout: default
       </section>
 
         {% if page.image %}
-            <img src = "{{ page.image | prepend: "/images/" | prepend: base_path }}">
+            <p><img src = "{{ page.image | prepend: "/images/" | prepend: base_path }}"></p>
         {% endif %}
 
         {% if page.image2 %}
-            <img src = "{{ page.image2 | prepend: "/images/" | prepend: base_path }}">
+            <p><img src = "{{ page.image2 | prepend: "/images/" | prepend: base_path }}"></p>
         {% endif %}
 
         {% if page.video %}

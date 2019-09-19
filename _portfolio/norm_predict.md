@@ -6,7 +6,7 @@ excerpt: 'Surface normal prediction from single image using stacked hourglass mo
 date: 2018-9-23
 # venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'
 # paperurl: 'https://arxiv.org/abs/1909.07843'
-authors: '**Rui Chen**'
+# authors: '**Rui Chen**'
 image: 'hourglass.png'
 image2: 'normpredict.png'
 archive_image: 'normpredict.png' 
