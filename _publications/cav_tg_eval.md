@@ -3,11 +3,12 @@ title: "How to Evaluate Self-Driving Testing Ground? A Quantitative Approach"
 collection: publications
 permalink: /publication/cav_tg_eval
 excerpt: 'This work evaluates the effectiveness of connected and automated vehicle testing grounds in terms of their capability to accomodate real-world driving scenarios, which are extracted from naturalistic driving data via Hierarchical Dirichlet Process Hidden Markov Model (HDP-HMM).'
-date: 2019-9-17
+date: 2019-2-26
 venue: 'arXiv'
 # paperurl: 'https://arxiv.org/abs/1909.07843'
 authors: '**Rui Chen**, Mansur Arief, Weiyang Zhang, Ding Zhao'
 image: 'scenario_fit_demo.gif'
+image2: 'cav_tg_full_benchmark.png'
 # codeurl: 'https://github.com/ruichen-v/active_learning_for_rsirl'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

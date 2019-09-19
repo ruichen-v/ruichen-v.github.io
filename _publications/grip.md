@@ -2,7 +2,7 @@
 title: "GRIP:  generative  robust  inference  and  perception  for  semantic  robot manipulation in adversarial environments"
 collection: publications
 permalink: /publication/grip
-excerpt: 'We develop a two-stage object detection and pose estimation system that aims to combine relative strength of discriminative CNNs and generative inference methods to achieve robust estimation.'
+excerpt: 'We develop a two-stage object detection and pose estimation system that aims to combine relative strength of discriminative CNNs and generative inference methods to achieve robust estimation under adversarial environments.'
 date: 2019-8-17
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/abs/1903.08352'

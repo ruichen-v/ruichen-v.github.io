@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Research Assistant at Intelligent Control Lab @CMU"
   location         : "Pittsburgh"
-  employer         :
+  employer         : 
   pubmed           : 
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=XiUE0wMAAAAJ
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "ruichen-v"
   google_plus      :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8671-8771"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
