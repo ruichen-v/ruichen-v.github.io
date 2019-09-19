@@ -1,4 +1,5 @@
 {% include base_path %}
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -33,13 +34,21 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.paperurl %}
+        <a href="{{post.paperurl}}"><i class="fas fa-file-pdf"></i></a>
+    {% endif %}
+
+    {% if post.codeurl %}
+        <a href="{{post.codeurl}}"><i class="fab fa-github"></i></a>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
         {% if post.authors %}
-            <p><i>{{ post.authors }}</i> </p>
+            <p><i>{{ post.authors | markdownify  }}</i> </p>
         {% endif %}
 
         {% if post.collection == 'teaching' %}
@@ -60,17 +69,19 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "><u>More details.</u></a></p>
+    {% comment %} {% elsif post.paperurl %}
+      <p><a href=" {{ post.paperurl }} "><u>More details.</u></a></p> {% endcomment %}
     {% endif %}
 
-    {% if post.gif %}
-        <img src="{{ post.gif | prepend: "/images/" | prepend: base_path }}" height="300">
-    {% elsif post.video %}
-        <iframe width="420" height="315"
-        src="{{ post.video }}">
-        </iframe>
+    {% if post.image %}
+        <img src="{{ post.image | prepend: "/images/" | prepend: base_path }}">
     {% endif %}
+
+    {% comment %} {% if post.video %}
+        <iframe width="420" height="315"
+            src="{{ post.video }}" frameborder="0" allowfullscreen>
+        </iframe>
+    {% endif %} {% endcomment %}
 
   </article>
 </div>
