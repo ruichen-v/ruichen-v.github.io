@@ -16,5 +16,5 @@ codeurl: 'https://github.com/ruichen-v/normPredict/tree/hourglass'
 ---
 
 This is a course project in EECS 442 Introduction to Computer Vision at the University of Michigan, Ann Abor. A stacked hourglass model is trained to predict surface normals from a single color image. All pixels where normals are to be predicted are indicated by a mask image. I reached a pixel-wise mean angle error of 0.37 and ranked 4/60.
- 
+   
 <!-- [Download paper here](https://arxiv.org/abs/1909.07843) -->
