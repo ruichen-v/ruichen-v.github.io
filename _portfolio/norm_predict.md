@@ -1,9 +1,9 @@
 ---
-title: "Surface normal prediction using Hourglass model"
+title: "Surface normal prediction using stacked hourglass model"
 collection: projects
 permalink: /projects/norm_predict
 excerpt: 'Surface normal prediction from single image using stacked hourglass model.'
-date: 2018-9-23
+date: 2018-4-12
 # venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'
 # paperurl: 'https://arxiv.org/abs/1909.07843'
 # authors: '**Rui Chen**'

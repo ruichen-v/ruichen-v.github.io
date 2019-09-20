@@ -1,9 +1,9 @@
 ---
-title: "Automatic map and route generator from OSM data in Carla"
+title: "Automatic driving scenario generator from OSM data in Carla"
 collection: projects
 permalink: /projects/carla_map_gen
-excerpt: 'An automatic map generator from OSM data for Carla.'
-date: 2019-9-13
+excerpt: 'An automatic map and route generator from OSM data for testing self-driving algorithms in Carla.'
+date: 2018-8-31
 # venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'
 # paperurl: 'https://arxiv.org/abs/1909.07843'
 # authors: '**Rui Chen**'

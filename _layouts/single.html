@@ -42,7 +42,7 @@ layout: default
         {% endif %}
         
         {% if page.authors %}
-            <p><i>{{ page.authors | markdownify  }}</i></p>
+            <p>{{ page.authors | markdownify  }}</p>
         {% endif %}
 
         {% if page.collection == 'teaching' %}

@@ -1,59 +1,74 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+file: 'CV_V.pdf'
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* M.S. in Electrical and Computer Engineering / Robotics, CV, The University of Michigan, Ann Arbor, 2017
+* B.S. in Computer Engineering, The University of Michigan, Ann Arbor, 2015
+* B.S. in Electrical and Computer Engineering, [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Shanghai, 2013
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research / Application Interests
+* Research areas
+  * Inverse Reinforcement Learning, Meta Learning, Reinforcement Learning, Computer Vision, Deep Learning, Probabilistic Robotics
+* Applications
+  * Human-Robot Interaction, Autonomous Vehicles, Manufacturing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+
+## Projects
+<ul>{% for post in site.portfolio reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Work experience
+* Sep. 2019: Research Assistant
+  * **Intelligent Control Lab, Robotics Institute, CMU, Pittsburgh**
+  * **Duties included:** Meta Imitation Learning for Human-Robot Collaboration
+  * **Supervisor:** Prof. Changliu Liu
+
+* Feb. 2019: Research Assistant
+  * **Safe AI Lab, Mechanical Engineering, CMU, Pittsburgh**
+  * **Duties included:** Active Learning for Inverse Reinforcement Learning, Autonomous Vehicle Testing Ground Evaluation, Self-driving Platform, Server management
+  * **Supervisor:** Prof. Ding Zhao
+
+* Sep. 2018: Research Assistant
+  * **Lab 4Progress, Department of EECS, UoM, Ann Arbor**
+  * **Duties included:** Generative Robust Inference and Perception for semantic robot manipulation in adversarial environments.
+  * **Supervisor:** Prof. Chad Jenkins
+
+* Jan. 2018: Research Assistant
+  * **Mcity, Ann Arbor**
+  * **Duties included:** On-track testing of Lincoln MKZ self-driving platform with simulated traffic.
+  * **Supervisor:** Prof. Ding Zhao
+
+* May. 2016: Software Intern
+  * **Nvidia, San Jose**
+  * **Duties included:** Optimizing GPU firmware infrastructure.
+  * **Supervisor:** Arvind Gopalakrishnan
+
+* March. 2015: Teaching assistant
+  * **UM-SJTU Joint Institute, Shanghai**
+  * **Duties included:** Lab management, lab sessions.
+  * **Supervisor:** Dr. Shane Johnson
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills
+* C/C++, Python, Matlab, Arduino
+* PCL, Cuda, Polysync, ROS, Tensorflow, RTOS
+* Embedded Systems, Computer Networks, Distributed/Parallel Computing, Electronics Design
+  
+## Software
+* Unreal Engine 4 (Editor & C++ programming)
+* Sketchup
+* Blender
+* AutoCAD
