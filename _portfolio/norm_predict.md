@@ -16,7 +16,7 @@ codeurl: 'https://github.com/ruichen-v/normPredict/tree/hourglass'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-This is a course project in EECS 442 Introduction to Computer Vision at the University of Michigan, Ann Abor. A stacked hourglass model [1] is trained to predict surface normals from a single color image. All pixels where normals are to be predicted are indicated by a mask image. I reached a pixel-wise mean angle error of 0.37 and ranked 4/60.
+This is a course project in EECS 442 Introduction to Computer Vision at the University of Michigan, Ann Abor. A stacked hourglass model [1] is trained to predict surface normals from a single color image. All pixels where normals are to be predicted are indicated by a mask image. I reached a pixel-wise mean angle error of 0.37 and ranked 4/60 in class.
 
 [1] A. Newell, K. Yang, and J. Deng, “Stacked Hourglass Networks for Human Pose Estimation,” arXiv:1603.06937 [cs], Mar. 2016. [link](https://arxiv.org/abs/1603.06937)
 
