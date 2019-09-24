@@ -18,6 +18,6 @@ archive_video: 'https://www.youtube.com/embed/cHohb-77H7M'
 ## Botlab in ROB550 Robotics Systems Lab (Fall 2017) at The University of Michigan, Ann Arbor.
 We implemented cascaded PID (motor-balance-velocity loops) on a self-designed dual-wheel bot. The autonomous race (first video) requires the bot to pass through each gate in an order specified through motion capture systems from specific directions (the column with white lid indicates 'right'). In manual race (second video), the operator (me...) remotely controls the bot to repeat the race.
 
-Our single-column bot design provides a PERFECT balance between dexterity and stability and was the coolest among all groups'.
+Our single-column bot design provided a PERFECT balance between dexterity and stability and was the coolest among all groups'.
 
 <!-- [Download paper here](https://arxiv.org/abs/1909.07843) -->

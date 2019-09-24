@@ -12,4 +12,4 @@ Hi! I am currently a research assistant at Intelligent Control Lab at Carnegie M
 
 My ultimate goal is to build robotics systems that can collaborate with humans safely, efficiently, and adaptively.
 
-I work on applications as well (lidar drivers and tools, automatic map generator for driving simulators, etc.). Details can be found [here](https://ruichen-v.github.io/projects/).
+I work on applications as well (lidar drivers and tools, automatic map generator for driving simulators, robotic arms, self-balance bot races, etc.). Details can be found [here](https://ruichen-v.github.io/projects/).
