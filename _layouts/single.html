@@ -84,6 +84,14 @@ layout: default
         </p>
         {% endif %}
 
+        {% if page.video2 %}
+        <p>
+            <iframe
+                    src = "{{ page.video2 }}" frameborder = "0" allowfullscreen>
+            </iframe>
+        </p>
+        {% endif %}
+
       <footer class = "page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class = "page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
