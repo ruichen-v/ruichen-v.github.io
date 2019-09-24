@@ -13,7 +13,7 @@ redirect_from:
 ## Education
 * M.S. in Electrical and Computer Engineering / Robotics, CV, The University of Michigan, Ann Arbor, 2017
 * B.S. in Computer Engineering, The University of Michigan, Ann Arbor, 2015
-* B.S. in Electrical and Computer Engineering, [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), Shanghai, 2013
+* B.S. in Electrical and Computer Engineering, [UM-SJTU Joint Institute](https://umji.sjtu.edu.cn/), Shanghai, 2013
 
 ## Research / Application Interests
 * Research areas
