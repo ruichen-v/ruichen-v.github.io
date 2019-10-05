@@ -10,7 +10,7 @@ authors: 'Xiaotong Chen, **Rui Chen**, Zhiqiang Sui, Zhefan Ye, Yanqi Liu, R. Ir
 video: 'https://www.youtube.com/embed/W0KvzMhIJxo'
 image: 'grip.png'
 archive_image: 'grip.png'
-archive_venue: 'Xiaotong Chen, **Rui Chen**, Zhiqiang Sui, Zhefan Ye, Yanqi Liu, R. Iris Bahar, Odest Chadwicke Jenkins. In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. 2019'
+archive_venue: 'Xiaotong Chen, **Rui Chen**, Zhiqiang Sui, Zhefan Ye, Yanqi Liu, R. Iris Bahar, Odest Chadwicke Jenkins. In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (To Appear)*. 2019'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 # Abstract
