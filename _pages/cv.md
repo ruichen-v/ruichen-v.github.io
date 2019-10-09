@@ -26,6 +26,9 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Community Contribution
+- **1 paper review** for *International Conference on Robotics and Automation (ICRA)*, 2020
+
 ## Projects
 <ul>{% for post in site.portfolio reversed%}
     {% include archive-single-cv.html %}
