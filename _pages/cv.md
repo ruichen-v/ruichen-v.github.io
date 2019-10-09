@@ -17,7 +17,7 @@ redirect_from:
 
 ## Research / Application Interests
 * Research areas
-  * Inverse Reinforcement Learning, Meta Learning, Reinforcement Learning, Computer Vision, Deep Learning, Probabilistic Robotics
+  * Meta Learning, Inverse Reinforcement Learning, Computer Vision, Reinforcement Learning, Deep Learning, Probabilistic Robotics.
 * Applications
   * Human-Robot Interaction, Autonomous Vehicles, Manufacturing
 
