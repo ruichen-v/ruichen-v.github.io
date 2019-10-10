@@ -56,7 +56,7 @@ redirect_from:
   * **Supervisor:** Prof. Ding Zhao
 
 * May. 2016: Software Intern
-  * **Nvidia, San Jose**
+  * **Nvidia, Santa Clara**
   * **Duties included:** Optimizing GPU firmware infrastructure.
   * **Supervisor:** Arvind Gopalakrishnan
 
