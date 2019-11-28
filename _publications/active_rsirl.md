@@ -10,7 +10,7 @@ authors: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao'
 image: 'active_rsirl.gif'
 archive_image: 'active_rsirl.gif'
 codeurl: 'https://github.com/ruichen-v/active_learning_for_rsirl'
-archive_venue: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao. In *IEEE Robotics and Automation Letters (RA-L) (In Review)*, 2019'
+archive_venue: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao. In *International Conference on Robotics and Automation (ICRA) (In Review)*, 2020'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 # Abstract
