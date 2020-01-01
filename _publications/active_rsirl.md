@@ -4,13 +4,13 @@ collection: publications
 permalink: /publications/active_rsirl
 excerpt: 'Risk-sensitive inverse reinforcement learning provides an general model to capture how human assess the distribution of a stochastic outcome when the true distribution is unknown (ambiguous). This work enables an RS-IRL learner to actively query expert demonstrations for faster risk envelope approximation.'
 date: 2019-9-10
-venue: 'IEEE Robotics and Automation Letters (RA-L) (In Review)'
+venue: 'International Conference on Robotics and Automation (ICRA) (In Review)'
 paperurl: 'https://arxiv.org/abs/1909.07843'
 authors: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao'
 image: 'active_rsirl.gif'
 archive_image: 'active_rsirl.gif'
 codeurl: 'https://github.com/ruichen-v/active_learning_for_rsirl'
-archive_venue: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao. In *IEEE Robotics and Automation Letters (RA-L) (In Review)*, 2019'
+archive_venue: '**Rui Chen**, Wenshuo Wang, Zirui Zhao, Ding Zhao. In *International Conference on Robotics and Automation (ICRA) (In Review)*, 2020'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 # Abstract
