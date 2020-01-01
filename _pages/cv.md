@@ -35,6 +35,8 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Work experience
+* Jan. 2020: Research Intern
+  * **Baidu USA LLC**
 * Sep. 2019: Research Assistant
   * **Intelligent Control Lab, Robotics Institute, CMU, Pittsburgh**
   * **Duties included:** Meta Imitation Learning for Human-Robot Collaboration
@@ -66,6 +68,7 @@ redirect_from:
   * **Supervisor:** Dr. Shane Johnson
   
 ## Skills
+* Kinova Gen3 (C++)
 * C/C++, Python, Matlab, Arduino
 * PCL, Cuda, Polysync, ROS, Tensorflow, RTOS
 * Embedded Systems, Computer Networks, Distributed/Parallel Computing, Electronics Design
